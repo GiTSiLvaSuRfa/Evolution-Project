@@ -82,3 +82,30 @@ div.slide-right {
     top: 250px;
     left: 250px;
   }
+  .carperformanceimg{
+    height: 800px;
+    position: relative;
+    left: 1475px;
+    top: -307px;
+    border-radius: 400px;
+  }
+  html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+.designimg{
+    height: 800px;
+    position: relative;
+    left: -375px;
+    top: -307px;
+    border-radius: 400px;
+}
+.designtext{
+    position: relative;
+    top: 250px;
+    left: -250px;
+  }
+
+
+   
+  
